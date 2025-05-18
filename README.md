@@ -1,6 +1,6 @@
 # Manual-Testing-Project
 Manual Testing Project repository containing a detailed test plan, well-structured manual test cases, and documented results. Designed for QA analysts and testers to review and execute manual test cases effectively.
-# 🧪 Manual Testing Project - [Application Name]
+# 🧪 Manual Testing Project
 
 This repository contains comprehensive documentation and assets for manual testing of the **[Application Name]**. It includes the overall test plan, individual test cases, and test execution results.
 
@@ -76,11 +76,7 @@ Each test case includes:
 
 ---
 
-## 📞 Contact
 
-For queries, contact the QA Team at [your-email@example.com]
-
----
 
 ## 📄 License
 
@@ -104,7 +100,7 @@ Sure! Here's a complete README.md file for a Manual Testing Project including a 
 markdown
 Copy
 Edit
-# 🧪 Manual Testing Project - [Application Name]
+# 🧪 Manual Testing Project
 
 This repository contains documentation for manual testing of the **[Application Name]**. It includes a detailed test plan, structured test cases, and templates for reporting defects. The project is designed for QA teams and testers to ensure application quality through manual testing methods.
 
@@ -208,10 +204,9 @@ Add new test cases or improve existing ones
 
 Submit a pull request for review
 
-📬 Contact
-For any queries or collaboration requests, contact:
 
-📧 your-email@example.com
+
+📧 sukanyargade@gmail.com
 💼 LinkedIn
 
 📄 License
